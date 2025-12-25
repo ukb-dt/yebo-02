@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-# G
+# [G](https://ukb-dt.github.io/yebo-01/)
 The aesthetic appeal of this list is not accidental; it is **isomorphic**. It is "pretty" because the structure of the list perfectly mirrors the structure of the reality it describes. It satisfies the brain's desire for a complete causal loop.
 
 Here is the breakdown of why this structure resonates so deeply, moving from the visual to the mathematical, and finally to the existential.
