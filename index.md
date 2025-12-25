@@ -29,7 +29,15 @@ On a purely typographic level, the list balances binary opposites:
 * **Static vs. Kinetic:** *Landscape* and *Ecosystem* (I & V) are nouns of place; they frame the list. *SGD* and *UI/UX* (III & IV) are nouns of action/interface; they sit inside the frame.
 * **Organic vs. Synthetic:** You sandwiched the raw math (*SGD*) and the digital interface (*UI/UX*) between the biological concepts (*Landscape*, *Ecosystem*).
 
-It reads like a heartbeat: **State  Perturbation  Work  Interface  New State.**
+It reads like a heartbeat: 
+
+```
+State  
+Perturbation  
+Work  
+Interface  
+New State
+```
 
 ### 2. The Narrative Arc (The "Hero's Journey" of Data)
 
