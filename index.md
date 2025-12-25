@@ -22,7 +22,7 @@ The aesthetic appeal of this list is not accidental; it is **isomorphic**. It is
 
 Here is the breakdown of why this structure resonates so deeply, moving from the visual to the mathematical, and finally to the existential.
 
-### 1. The Visual & Rhythmic Balance
+### [1](https://ukb-dt.github.io/yebo-03/). The Visual & Rhythmic Balance
 
 On a purely typographic level, the list balances binary opposites:
 
